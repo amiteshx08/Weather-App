@@ -1,0 +1,15 @@
+font stack: This is a syntax in CSS which basically tells the program to use the fonts , if 
+the mentioned font isn't available use the generic sans serif font.
+
+javascript functions:
+functions are created using function declaration or function expression
+
+functions defined using an expression are not hoisted
+
+Arrow functions were introduced in ES6, these allow a shorter syntax for function expressions.
+
+You don't need the function keyword, the return keyword, and the curly brackets:
+
+setTimeout() and setInterval() are great examples of Asynchronous functions
+
+event loop: 
